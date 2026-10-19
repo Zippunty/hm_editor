@@ -130,3 +130,7 @@ mqsource
 .specstory
 editorDist
 /*.cursorindexingignore
+
+.idea
+.workboddy
+ai_docs
